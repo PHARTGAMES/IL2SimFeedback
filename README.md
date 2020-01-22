@@ -29,14 +29,12 @@ Download: https://github.com/PHARTGAMES/IL2SimFeedback/tree/master/Releases
 
 4. Edit the file data/startup.cfg located within the Il2 Sturmovik game folder and add the following:
 
-<code>  
-[KEY = motiondevice]
-      addr = "127.0.0.1"
-      decimation = 1
-      enable = true
-      port = 4321
+[KEY = motiondevice]  
+addr = "127.0.0.1"  
+      decimation = 1  
+      enable = true  
+      port = 4321  
 [END]
-</code>
 
 Simulation produces 50Hz rate data output (output 50 samples per second) of in-game player
 body's state: orientation, rotation speed (spin) and acceleration (if game mission has user-controlled
