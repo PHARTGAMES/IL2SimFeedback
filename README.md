@@ -13,6 +13,7 @@ https://github.com/SimFeedback/SimFeedback-AC-Servo
 RELEASE NOTES
 =============
 v1.0 - First release.
+v1.1 - Fix broken first release.
 
 INSTALLATION INSTRUCTIONS 
 =========================

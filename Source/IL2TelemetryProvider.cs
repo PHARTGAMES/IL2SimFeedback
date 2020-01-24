@@ -55,7 +55,7 @@ namespace IL2Telemetry
         public IL2TelemetryProvider() : base()
         {
             Author = "PEZZALUCIFER";
-            Version = "v1.0";
+            Version = "v1.1";
             BannerImage = @"img\banner_il2.png"; // Image shown on top of the profiles tab
             IconImage = @"img\il2.jpg";  // Icon used in the tree view for the profile
             TelemetryUpdateFrequency = 100;     // the update frequency in samples per second
